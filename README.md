@@ -21,4 +21,4 @@ Clone de repository in een aparte map, maak een kleine verbetering, commit en pu
 
 ## Repository
 
-GitHub-link: 
+GitHub-link: https://github.com/SiebrenJK/mijn-website
